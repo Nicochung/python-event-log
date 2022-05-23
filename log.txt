@@ -1,0 +1,58 @@
+[
+    {
+        "timeStamp": "23/05/2022 10:50:02",
+        "log": "I just won a lottery #update @all",
+        "tagObj": {
+            "category": [
+                "update"
+            ],
+            "person": [
+                "all"
+            ]
+        }
+    },
+    {
+        "timeStamp": "23/05/2022 10:50:08",
+        "log": "#Test #task is difficult",
+        "tagObj": {
+            "category": [
+                "Test",
+                "task"
+            ],
+            "person": []
+        }
+    },
+    {
+        "timeStamp": "23/05/2022 10:50:12",
+        "log": "@team we have #race_condition in chat service, @John fyi",
+        "tagObj": {
+            "category": [
+                "race_condition"
+            ],
+            "person": [
+                "John",
+                "team"
+            ]
+        }
+    },
+    {
+        "timeStamp": "23/05/2022 10:50:17",
+        "log": "I have no tag in this log",
+        "tagObj": {
+            "category": [],
+            "person": []
+        }
+    },
+    {
+        "timeStamp": "23/05/2022 10:53:45",
+        "log": "I just won a lottery #update @all",
+        "tagObj": {
+            "category": [
+                "update"
+            ],
+            "person": [
+                "all"
+            ]
+        }
+    }
+]
