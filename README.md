@@ -11,6 +11,21 @@
 1. Each word in the event string is separate by a space
 2. There is enough memory to store all the logs in memory
 3. Tags are case-sensitive
+4. The log will be stored in the following format
+   ```js
+    {
+        "timeStamp": "23/05/2022 10:50:02",
+        "log": "I just won a lottery #update @all",
+        "tagObj": {
+            "category": [
+                "update"
+            ],
+            "person": [
+                "all"
+            ]
+        }
+    },
+   ```
 
 ### Note
 
